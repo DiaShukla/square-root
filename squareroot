@@ -1,0 +1,6 @@
+print("this is a square root calculator!")
+
+n = int(input("What number sdo you want me to calculate the square root for?"))
+
+print(n ** 0.5)
+print("Run the code again to calculate the next square root")
